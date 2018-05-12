@@ -1,0 +1,27 @@
+_repo: The-Curiosities-of-Heraldry_38951
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38951-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lower, Mark Antony
+    birthdate: 1813
+    deathdate: 1876
+    gutenberg_agent_id: '39734'
+    url: http://www.gutenberg.org/2009/agents/39734
+description: ''
+gutenberg_issued: '2012-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38951'
+  lccn: '10000041'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CR'
+- !lcsh 'Heraldry'
+title: The Curiosities of Heraldry
+url: http://www.gutenberg.org/ebooks/38951
